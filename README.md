@@ -44,6 +44,9 @@ I created a modern **homepage** and **products page** using **Next.js** and **Ta
 
 ---
 
+![Project Preview](/public/preview.png)
+
+
 ## 🛠️ Getting Started
 
 Clone the repository:
