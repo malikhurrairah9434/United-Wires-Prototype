@@ -44,7 +44,7 @@ I created a modern **homepage** and **products page** using **Next.js** and **Ta
 
 ---
 
-![Project Preview](/public/preview.png)
+![Project Preview](/public/Preview.png)
 
 
 ## 🛠️ Getting Started
